@@ -58,6 +58,16 @@ a {
 
 }
 
+
+ @media (min-width: 768px) {
+#button {
+    
+    position: absolute;
+    bottom: 20px;
+    right: 680px;
+}
+}
+
 a:hover,
 a:focus {
     text-decoration: none;
@@ -133,11 +143,11 @@ padding: 3%;
     text-align: left;
 }
 
-/*.prep {
+.prep {
 
- position: center;
+ margin: left;
 }
-*/
+
 
 
 /*::::::::HEADER MENU::::::::*/

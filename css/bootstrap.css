@@ -27,7 +27,7 @@ section,
 summary {
   display: block;
 }
-audio,
+/*audio,
 canvas,
 progress,
 video {
@@ -44,7 +44,7 @@ template {
 }
 a {
   background-color: transparent;
-}
+}*/
 
 
 
